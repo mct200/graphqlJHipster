@@ -164,3 +164,12 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Setting up Continuous Integration]: https://www.jhipster.tech/documentation-archive/v8.1.0/setting-up-ci/
 [Node.js]: https://nodejs.org/
 [NPM]: https://www.npmjs.com/
+##Test of the Graphql query with postman
+<img width="437" alt="image" src="https://github.com/mct200/graphqlJHipster/assets/97558185/aaf8f5fa-d0f7-4cd4-a203-2ea77c06d771">
+<img width="884" alt="image" src="https://github.com/mct200/graphqlJHipster/assets/97558185/7801615a-4c16-464f-8d38-666e53058be5">
+<img width="620" alt="image" src="https://github.com/mct200/graphqlJHipster/assets/97558185/aa021bf8-c2fe-4721-9fca-e2bddbbca9d0">
+<img width="823" alt="image" src="https://github.com/mct200/graphqlJHipster/assets/97558185/6442f04a-ba57-4bf1-ac88-b73b17f2e45e">
+
+
+
+
